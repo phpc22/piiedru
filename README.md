@@ -1,5 +1,6 @@
+<div align= "center" class="container">
+<h1>Olá! Eu sou o Pedro Cordeiro 👋</h1>
 
-### Olá! Eu sou o Pedro Cordeiro 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-de-paula-cordeiro-374197242/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/piiedru?igsh=MTRndmJzeHhzeWwyaA%3D%3D&utm_source=qr)
@@ -11,11 +12,22 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piiedru&show_icons=true&theme=dracula)
 
-## Tecnologias Exploradas
+<hr>
+
+<h3> Tecnologias Exploradas </h3>
 <div style="display: inline_block"> <br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img  alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</div>
+<hr>
+<h3>Idiomas</h3>
+
+![Inglês](https://img.icons8.com/?size=100&id=15534&format=png&color=000000)
+
+
+![Francês](https://img.icons8.com/?size=100&id=15497&format=png&color=000000)
+
 </div>
