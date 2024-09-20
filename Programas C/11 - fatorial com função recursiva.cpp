@@ -23,8 +23,8 @@ int fatorial (int x){
 	 if(x == 0){
 	 resultado = 1;
 	}else{
-										//nunca se da o valor da função até ter ele exatamente
-		resultado = x * fatorial(x - 1); // cria-se outras funções com o mesmo nome na memoria prosseguindo com o numero inserido (subitraindo 1) até que ache o primeiro valor (0), e vá substituindo os demais 
+										//nunca se da o valor da funÃ§Ã£o atÃ© ter ele exatamente
+		resultado = x * fatorial(x - 1); // cria-se outras funÃ§Ãµes com o mesmo nome na memoria prosseguindo com o numero inserido (subitraindo 1) atÃ© que ache o primeiro valor (0), e vÃ¡ substituindo os demais 
 	//exemplo 3 * 2 = 6
 	//		  2 * 1
 	//		  1 * 1
