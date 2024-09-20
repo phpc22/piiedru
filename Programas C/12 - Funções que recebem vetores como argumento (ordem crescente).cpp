@@ -3,10 +3,10 @@
 int main (void){
 	int vetor [10] = {6, 4, 9, 1, 8, 5, 0, 3, 2, 7};
 	int i; 
-	void ordemCrescente (int vetor [], int n); //n informa a quantidade de membros (quantas vezes È preciso rodar).
+	void ordemCrescente (int vetor [], int n); //n informa a quantidade de membros (quantas vezes √© preciso rodar).
 	
 	ordemCrescente (vetor, 10);
-	for (i = 0; i < 10; ++i){ //i lÍ a posiÁ„o do nu˙mero
+	for (i = 0; i < 10; ++i){ //i l√™ a posi√ß√£o do nu√∫mero
 		
 	printf ("%i", vetor [i]); 
 	
@@ -18,14 +18,14 @@ int main (void){
 }
 
 	void ordemCrescente (int vetor [], int n){
-		int i, j, temp;		//dentro da funÁ„o o j È sempre o valor a frente de i(uma posiÁ„o a sua frente)
+		int i, j, temp;		//dentro da fun√ß√£o o j √© sempre o valor a frente de i(uma posi√ß√£o a sua frente)
 		
 		for (i = 0; i < n; ++i){
 			for(j = i + 1;  j < n; ++j){ //j = i ++1 (sempre a frente)
 				
 				if(vetor[i] > vetor[j]){
-					temp = vetor[i]; 		//n„o È possÌvel trocar a ·gua de um copo para o outro
-					vetor[i] = vetor[j];	//se n„o tiver um copo extra.
+					temp = vetor[i]; 		//n√£o √© poss√≠vel trocar a √°gua de um copo para o outro
+					vetor[i] = vetor[j];	//se n√£o tiver um copo extra.
 					vetor[j] = temp;
 				}
 			}
