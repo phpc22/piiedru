@@ -5,7 +5,7 @@ int main (void){
 	void funcaoPrint(int x [] [3]);
 	int matriz [3] [3] {1, 2, 3, 4, 5, 6, 7, 8, 9};
 	
-	funcaoPrint (matriz); //apenas informar o nome quando chamar a função
+	funcaoPrint (matriz); //apenas informar o nome quando chamar a funÃ§Ã£o
 	
 	return 0;
 }
