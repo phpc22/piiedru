@@ -1,6 +1,6 @@
 <div align= "center" class="container">
 <h1>Olá! Eu sou o Pedro Cordeiro 👋</h1>
-
+<h2>e está parte é de alguns projetos que já estudei e deixo guardado por aqui!</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-de-paula-cordeiro-374197242/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/piiedru?igsh=MTRndmJzeHhzeWwyaA%3D%3D&utm_source=qr)
